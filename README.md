@@ -1,5 +1,4 @@
-![Uploading Screenshot 2026-06-16 220616.png…]()
-<img width="1505" height="930" alt="Screenshot 2026-06-16 220547" src="https://github.com/user-attachments/assets/cf13d2b8-cac9-4d50-9eb9-0a6f90b70856" />
+
 # maven-toys-sql-project
 # Toys Sales Analysis using SQL
 
@@ -32,5 +31,8 @@ This project analyzes toy store sales data using MySQL.
 - CASE WHEN
 - LAG
 - RANK
+  <img width="1577" height="886" alt="Screenshot 2026-06-16 220616" src="https://github.com/user-attachments/assets/5e8bcd94-4040-4b9b-9434-ae1d068b2eee" />
+<img width="1505" height="930" alt="Screenshot 2026-06-16 220547" src="https://github.com/user-attachments/assets/458892db-a621-42db-a17f-6c5aa302dac0" />
+
 - Views
 - Aggregate Functions
