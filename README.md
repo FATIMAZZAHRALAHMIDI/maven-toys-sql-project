@@ -31,8 +31,8 @@ This project analyzes toy store sales data using MySQL.
 - CASE WHEN
 - LAG
 - RANK
-  <img width="1577" height="886" alt="Screenshot 2026-06-16 220616" src="https://github.com/user-attachments/assets/5e8bcd94-4040-4b9b-9434-ae1d068b2eee" />
-<img width="1505" height="930" alt="Screenshot 2026-06-16 220547" src="https://github.com/user-attachments/assets/458892db-a621-42db-a17f-6c5aa302dac0" />
-
 - Views
 - Aggregate Functions
+<img width="1577" height="886" alt="Screenshot 2026-06-16 220616" src="https://github.com/user-attachments/assets/c8af7d40-6066-41c7-8d82-adfc57ced5a1" />
+<img width="1505" height="930" alt="Screenshot 2026-06-16 220547" src="https://github.com/user-attachments/assets/d5f8f66a-2d06-472a-9fe2-6bcb85624425" />
+
